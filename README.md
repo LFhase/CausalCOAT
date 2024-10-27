@@ -5,7 +5,7 @@ Discovery of the Hidden World with Large Language Models
 <p align='center'>
 <a href="https://arxiv.org/abs/2402.03941"><img src="https://img.shields.io/badge/arXiv-2402.03941-b31b1b.svg" alt="Paper"></a> 
 <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Pub-NeurIPS'24-blue" alt="Conf"></a> 
-<a href="https://causalcoat.github.io/"><img src="https://img.shields.io/badge/github-CausalCOAT-D76364" alt="Slides"></a> 
+<a href="https://causalcoat.github.io/"><img src="https://img.shields.io/badge/website-CausalCOAT-D76364" alt="Slides"></a> 
 </p>
 
 
