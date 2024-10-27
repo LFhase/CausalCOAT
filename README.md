@@ -1,6 +1,21 @@
-# CausalCOAT
+<h1 align='center'>
+Discovery of the Hidden World with Large Language Models
+</h1>
+
+<p align='center'>
+<a href="https://arxiv.org/abs/2402.03941"><img src="https://img.shields.io/badge/arXiv-2402.03941-b31b1b.svg" alt="Paper"></a> 
+<a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Pub-NeurIPS'24-blue" alt="Conf"></a> 
+<a href="https://causalcoat.github.io/"><img src="https://img.shields.io/badge/github-CausalCOAT-D76364" alt="Slides"></a> 
+</p>
+
 
 [NeurIPS 2024] Discovery of the Hidden World with Large Language Models
+
+This repository contains the source codes for reproducing the results of NeurIPS'24 paper: [**Discovery of the Hidden World with Large Language Models**]().
+
+**Author List**: Chenxi Liu*, Yongqiang Chen*, Tongliang Liu, Mingming Gong, James Cheng, Bo Han, Kun Zhang
+
+(* Equal Contribution)
 
 ## Prepare to Use API
 
